@@ -1,0 +1,10 @@
+Data exportarii: 10/04/2026, 13:43:41
+Numar studenti: 2
+
+1. c, c, ID-001, 9C
+   Media generala: N/A
+   Medii pe disciplina: N/A
+
+2. d, d, ID-002, 10D
+   Media generala: N/A
+   Medii pe disciplina: N/A
